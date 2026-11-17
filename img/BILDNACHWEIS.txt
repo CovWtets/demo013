@@ -1,6 +1,0 @@
-Alle Fotos stammen von der Website des Unternehmens (socalconcepts.com, Startseiten-Slider, geladen 17.11.2026).
-Rechte liegen beim Unternehmen bzw. Fotografen. Nur für diese interne Design-Demo / Akquise – NICHT öffentlich veröffentlichen.
-p1 CDM pool (3) · p2 Prosky pool (2) · p3 Grover Fire Pit (2) · p4 Prenovost Fire Pit (3) · p5 Prenovost Water Feature (1)
-p6 16 (Putting Green) · p7 2 (Feuerstelle + Putting Green) · p8 21 (Patio, Pergola, Outdoor-Küche) · p9 3 (Sitzplatz) – nur 640 px
-Schrift: Instrument Serif (SIL Open Font License), lokal in fonts/, geladen von @fontsource/instrument-serif 5.1.1.
-p10 10 (Garten mit Spiegelbecken bei Nacht) – von der Products-Seite (Top Lights)
