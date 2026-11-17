@@ -1,0 +1,17 @@
+Alle Fotos: Unsplash (https://unsplash.com/license), kostenlose Lizenz, kommerzielle Nutzung erlaubt, keine Namensnennung Pflicht.
+Geprüft 17.11.2026: jede Seite „Free to use under the Unsplash License“, kein Unsplash+, nicht gesponsert, keine erkennbaren Personen/Marken.
+Quelle jeweils https://images.unsplash.com/photo-<ID>  (die früheren Firmenfotos wurden am 17.11.2026 entfernt)
+
+hero.jpg      1634923295030-730da9900a2d  Leo_Visions        unsplash.com/photos/0N0hFVtwqIY  (Pool mit Pergola, Abendlicht)
+services.jpg  1769503236428-7773271074cf  sozina hope        unsplash.com/photos/dp7onL03wjY  (Pergola mit Essplatz)
+products.jpg  1785162446878-99a3feaf199b  Stefan Hiienurm    unsplash.com/photos/ELjmbCEU9rE  (Gartenleuchte bei Nacht)
+about.jpg     1668120089662-42642838cfef  Raelle Cameron     unsplash.com/photos/JUNyb_cetns  (National Arboretum Canberra – öffentlicher Park)
+g1.jpg        1787237849351-5dcba5f478c4  Clay Banks         unsplash.com/photos/zO3aXA0cukg  (Pool im Garten, Parksville NY)
+g2.jpg        1779202730803-e5a924592475  adam roye          unsplash.com/photos/MT5EICJ_SHg  (Außenkamin, Painted Tree McKinney TX)
+g3.jpg        1762117360871-f11fbad00ee1  Alef Morais        unsplash.com/photos/YTnLXCH0jWw  (Außenküche + Pool)
+g4.jpg        1779148478270-da34ded6cd4b  SACHIN SANDHU      unsplash.com/photos/ihg-vCif6Ko  (Wasserfall/Teich)
+g5.jpg        1782914550645-bfe5e5e54bff  Ichsan Chairul     unsplash.com/photos/orByFqF4NrA  (Feuerstelle; Beschreibung nennt Kunde „Clove Hospitality“, Indonesien)
+g6.jpg        1766603636766-1f4662469448  Alef Morais        unsplash.com/photos/McYRvVVEliE  (überdachte Terrasse, Poolblick)
+
+Hinweis: Stockfotos, keine Arbeiten der Firma. Für die echte Seite durch deren eigene Projektfotos ersetzen (mit Zustimmung).
+Schrift: Instrument Serif (SIL Open Font License), lokal in fonts/, geladen von @fontsource/instrument-serif 5.1.1.
